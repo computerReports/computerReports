@@ -1,4 +1,6 @@
-## Hi there 👋
+## Greetings and welcome to my GitHub Page!
+
+## . I graduated with a bachelor's degree in computer engineering and now in my master's in computer science, focusing in software engineering. The objective is 
 
 <!--
 **computerReports/computerReports** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
