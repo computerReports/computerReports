@@ -1,6 +1,6 @@
 ## Greetings and welcome to my GitHub Page!
 
-I'm working on improving my programming skills by making projects that highlights in C, Python, Java, HTML/CSS, PHP, etc. At this moment, the only "project" that I've worked on here was a research website that I developed for a graduate-level course I took in college.
+I'm working on improving my programming skills by making projects that highlights in C, Linux - Bash Scripting, Python, Java, HTML/CSS, PHP, etc. At this moment, the only "project" that I've worked on here was a research website that I developed for a graduate-level course I took in college.
 
 I'm also interested in learning more with artificial intelligence and machine learning. I'm aware that AI and ML models are continually being produced for future cost-effective projects in computing (even in engineering).
 
